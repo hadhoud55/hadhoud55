@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Hedi Ben Hassine
 
-<!--
-**hadhoud55/hadhoud55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer passionate about building scalable web applications using **Java**, **Spring Boot**, **Vue.js**, and **MySQL**.
 
-Here are some ideas to get you started:
+## 🔧 Technologies
+- **Languages:** Java, JavaScript, SQL
+- **Frameworks:** Spring Boot, Vue.js
+- **Databases:** MySQL, H2
+- **Tools:** Git, Maven, npm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### [Fit_Tracker](https://github.com/hadhoud55/FIT_TRACKER)
+Full-stack fitness tracker application with role-based access, bookings, and product management.
+
+### [E-Commerce App](https://github.com/hadhoud55/My-Ecommerce)
+Full-stack e-commerce app with JWT authentication, shopping cart, and admin dashboard.
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/hedi-ben-hassine/)
+- Email: hedi.benhassine@example.com
