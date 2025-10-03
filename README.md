@@ -118,11 +118,6 @@ A **full-stack e-commerce web application** built with Spring Boot and Vue.js.
 
 ---
 
-## 👁️ Visitor Counter
-
-![Visitor Count](https://profile-counter.glitch.me/hadhoud55/count.svg)
-
----
 
 ## 🤝 Let’s Connect!
 
